@@ -1,0 +1,4 @@
+baseURL = 'http://saitarunreddy.com'
+languageCode = 'en-us'
+title = 'Sai Tarun Reddy'
+theme = 'PaperMod'
